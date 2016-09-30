@@ -17,6 +17,12 @@ public class UIController : MonoBehaviour {
         else if (buttonName.Equals("help"))
         {
             Debug.Log("help clicked");
+            Application.LoadLevel(1);
+        }
+        else if (buttonName.Equals("backscene"))
+        {
+            Debug.Log("Back button in menu scene clicked");
+            Application.LoadLevel(0);
         }
     }
 }
