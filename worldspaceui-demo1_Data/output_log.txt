@@ -14,32 +14,16 @@ Platform assembly: C:\Users\Public\Documents\Unity Projects\UnityWorldSpaceUI\wo
 Loading C:\Users\Public\Documents\Unity Projects\UnityWorldSpaceUI\worldspaceui-demo1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\Public\Documents\Unity Projects\UnityWorldSpaceUI\worldspaceui-demo1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\Public\Documents\Unity Projects\UnityWorldSpaceUI\worldspaceui-demo1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.095 seconds
+- Completed reload, in  0.063 seconds
 Platform assembly: C:\Users\Public\Documents\Unity Projects\UnityWorldSpaceUI\worldspaceui-demo1_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Public\Documents\Unity Projects\UnityWorldSpaceUI\worldspaceui-demo1_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.965117 ms
+UnloadTime: 0.923732 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 24d8 -> priority: 1 
-buttonName = start
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-start clicked
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-buttonName = cube
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-cube clicked
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
+  Thread -> id: 5f8 -> priority: 1 
 buttonName = help
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
@@ -49,8 +33,50 @@ help clicked
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 7.359984 ms
+UnloadTime: 7.510603 ms
 
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 229.
-Total: 1.026984 ms (FindLiveObjects: 0.097279 ms CreateObjectMapping: 0.048639 ms MarkObjects: 0.814931 ms  DeleteObjects: 0.059733 ms)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 241.
+Total: 0.242346 ms (FindLiveObjects: 0.031573 ms CreateObjectMapping: 0.011946 ms MarkObjects: 0.188159 ms  DeleteObjects: 0.009813 ms)
+
+buttonName = backscene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Back button in menu scene clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.610132 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 265.
+Total: 0.306346 ms (FindLiveObjects: 0.026879 ms CreateObjectMapping: 0.014079 ms MarkObjects: 0.207359 ms  DeleteObjects: 0.057173 ms)
+
+buttonName = help
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+help clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.317118 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 241.
+Total: 0.285866 ms (FindLiveObjects: 0.027306 ms CreateObjectMapping: 0.014079 ms MarkObjects: 0.229973 ms  DeleteObjects: 0.012799 ms)
+
+buttonName = backscene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Back button in menu scene clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.560212 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 265.
+Total: 0.297386 ms (FindLiveObjects: 0.037119 ms CreateObjectMapping: 0.009813 ms MarkObjects: 0.191573 ms  DeleteObjects: 0.058026 ms)
 
