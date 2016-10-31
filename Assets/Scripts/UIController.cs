@@ -17,12 +17,22 @@ public class UIController : MonoBehaviour {
         else if (buttonName.Equals("help"))
         {
             Debug.Log("help clicked");
-            Application.LoadLevel(1);
+            Application.LoadLevel(2);
         }
         else if (buttonName.Equals("backscene"))
         {
             Debug.Log("Back button in menu scene clicked");
             Application.LoadLevel(0);
+        }
+        else if (buttonName.Equals("startapp"))
+        {
+            Debug.Log("Get started button clicked");
+            Application.LoadLevel(1);
+        }
+        else if (buttonName.Equals("video"))
+        {
+            Debug.Log("help video button clicked");
+            Application.LoadLevel(2);
         }
     }
 }
